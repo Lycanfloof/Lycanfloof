@@ -1,4 +1,4 @@
-###Hey there!
+Hey there!
 
 I'm Ariel Eduardo and I'm currently studying Software Engineering at Icesi University.
 
