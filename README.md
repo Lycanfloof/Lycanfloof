@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm Ariel Eduardo and I'm currently studying Software Engineering at Icesi University.
+I'm Ariel Eduardo and I'm currently studying Software Engineering at ICESI University.
 
 - There's not much to say, really. I'm just a dude who likes furries, math and engineering lol.
 
