@@ -2,10 +2,6 @@
 
 I'm Ariel Eduardo and I'm currently studying Software Engineering at Icesi University.
 
-Have you ever lost a Google account?
+There's not much to say, really. I'm just a dude who likes furries, math and engineering lol.
 
-No...?
-
-Well, I did... Because of that, I also lost my previous GitHub account :/
-
-If you ever want to take a look at that, check [this link](https://github.com/lyca22)!
+I used to have an old GitHub account. If you ever want to take a look at that, check [this link](https://github.com/lyca22)!
